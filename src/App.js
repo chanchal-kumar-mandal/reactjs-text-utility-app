@@ -13,7 +13,7 @@ function App() {
   return (
     <>
       <Router>
-        <Navbar title="Advanced App"/>
+        <Navbar title="News Utilty App"/>
         <Routes>
           
           <Route exact path="/" element={
